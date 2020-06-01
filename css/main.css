@@ -456,7 +456,9 @@ ul.list-item{
 
 
     @media screen and (max-width: 490px) {
-
+            .card h2{
+                font-size: 49px;
+            }
         .element{
             /*for navbar items*/
             margin:5px;
